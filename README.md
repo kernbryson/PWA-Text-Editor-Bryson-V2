@@ -1,5 +1,8 @@
 
   # PWA Text Editor-Bryson Kern
+  
+  https://pwatexteditor2.herokuapp.com/
+  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description 
 The PWA Text Editor shows off the power of indexDB and Webpacks. With this application you can  write anything down and it will save not only in local storage, but also in a database. You are also given the option to download the app and use it in its own separate window. My motivation behind this project was to create a simple text editor that could be used in the browser or as an application on your computer.
