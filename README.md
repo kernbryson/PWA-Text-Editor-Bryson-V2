@@ -16,13 +16,20 @@ The PWA Text Editor shows off the power of indexDB and Webpacks. With this appli
 ## Installation
 In order to install this application, one must first download my repo from github. After the repo is installed then the user must do an npm install in the command terminal in vs code. once the dependencies are installed, the user can run the command "npm start" and the application will launch.
 
+![nodePackage](/images/package.png)
+
+![SocialWorker](/images/social%20worker.png)
+
+![Workbox](/images/workbox.png)
+
 ## Usage
 
 This text editor is simple to use. Just type anything into the window and all of your progress will be saved.
 
 ## Credits
 
-
+- https://www.w3schools.com/
+- https://developer.mozilla.org/en-US/
 
 ## License
 
